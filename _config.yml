@@ -11,12 +11,12 @@ paginate: 10
 paginate_path: ":num"
 baseurl: ""
 
-title: "Cheenwe"
-email: "cxhyun@126.com"
-description: "A Ruby Coder"
-github_username:  "cheenwe"
-swiftype_searchId: "9TDAXeK2smEEtWndRZJB"
-disqus_shortname: "cheenwecn"
+title: "zjmoo"
+email: "zjmoo123@gmail.com"
+description: "A Android Coder"
+github_username:  "zjmoo123"
+swiftype_searchId: "xx"
+disqus_shortname: "xx"
 
 
 defaults:
@@ -31,8 +31,8 @@ defaults:
 
 
 
-url: "https://cheenwe.github.io"
-imgrepo: "https://cheenwe.github.io/static/img"
+url: "https://zjmoo123.github.io"
+imgrepo: "https://zjmoo123.github.io/static/img"
 
 # url: "http://127.0.0.1:4000"
 # imgrepo: "http://127.0.0.1:4000/static/img"
